@@ -166,7 +166,7 @@
 - [grpchan](https://github.com/fullstorydev/grpchan) - Channels for gRPC: custom transports, such as in-process and HTTP 1.1
 - [grpcui](https://github.com/fullstorydev/grpcui) - Embed a gRPC web UI into a Go gRPC/HTTP server
 - [clay](https://github.com/utrack/clay) - Minimal server platform for gRPС+REST+Swagger APIs
-- [grpc-consul-resolver](https://github.com/mbobakov/grpc-consul-resolver) - Easy to use endpoints resolver for the services registered in the [Consul](https://www.consul.io/)
+- [-consul-resolver](https://github.com/mbobakov/grpc-consul-resolver) - Easy to use endpoints resolver for the services registered in the [Consul](https://www.consul.io/)
 - [kuberesolver](https://github.com/sercand/kuberesolver) - gRPC Load Balancer with Kubernetes resolver
 - [ttrpc](https://github.com/containerd/ttrpc) - GRPC for low-memory environments
 - [grapi](https://github.com/izumin5210/grapi) - 😮 A surprisingly easy API server and generator in gRPC and Go
@@ -288,6 +288,7 @@
 - [ScalaPB](https://scalapb.github.io/) - Protocol Buffer Compiler for Scala
 - [Akka-gRPC](https://developer.lightbend.com/docs/akka-grpc/current/) - Akka gRPC provides support for building streaming gRPC servers and clients on top of Akka Streams.
 - [Mu](https://higherkindness.io/mu/) - Mu RPC is a purely functional library for building RPC endpoint-based services with support for gRPC and HTTP/2
+- [fs2-grpc](https://github.com/typelevel/fs2-grpc) - gRPC implementation for FS2/cats-effect
 
 <a name="lang-dart"></a>
 ### Dart
